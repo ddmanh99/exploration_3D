@@ -1,0 +1,30 @@
+#######
+roslaunch rotors_gazebo exploration_hummingbird_sim.launch
+
+roslaunch uav_frontier_exploration_3d frontier_server.launch 2> >(grep -v TF_REPEATED_DATA buffer_core)
+
+rosservice call /red/exploration/toggle true
+
+rostopic pub /red/exploration/point_reached std_msgs/Bool "data: true"
+
+rosservice call /red/exploration/save_octomap
+
+roslaunch trajectory_planner rrtstar.launch
+
+######
+roslaunch octomanager octomanager.launch
+
+rosservice call /octomanager/exploration/toggle true
+
+rosservice call /octomanager/exploration/savemap
+
+#######
+rosrun path_planning planning_d
+
+#########
+xwininfo
+	- click to window want to record to check windowid 
+	
+recordmydesktop --windowid <Window ID>
+
+

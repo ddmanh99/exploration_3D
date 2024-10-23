@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+
+   <!-- Visualization -->
+   <node pkg="rviz" type="rviz" name="rviz" args="-d $(find uav_frontier_exploration_3d)/rviz/frontier.rviz"/>
+
+</launch>
