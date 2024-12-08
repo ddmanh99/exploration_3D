@@ -25,6 +25,6 @@ rosrun path_planning planning_d
 xwininfo
 	- click to window want to record to check windowid 
 	
-recordmydesktop --windowid <Window ID>
+recordmydesktop --windowid <Window ID> --no-sound
 
 

@@ -76,6 +76,9 @@ namespace best_frontier
 		m_potentialPub = m_nh.advertise<
 			geometry_msgs::PoseArray>("exploration/potential", 1, false);
 
+		m_candidateGoal = m_nh.advertise<
+			visualization_msgs::MarkerArray>("/candidate_goal", 1, false);
+
 		m_bestPotentialSub = m_nh.subscribe("/best_potential", 1, &BestFrontier::bestPotentialCB, this);
 	}
 
@@ -98,6 +101,7 @@ namespace best_frontier
 		m_filePath = config["octomap"]["file_path"].as<string>();
 		m_waitTime = config["octomap"]["max_waitTime"].as<double>();
 		m_maxCandidate = config["octomap"]["max_candidate"].as<int>();
+		m_worldFrameId = config["exploration"]["global_frame"].as<string>();
 
 		m_bestPotential_recieve = false;
 		// octree_ptr = std::make_shared<octomap::OcTree>(m_mapFile);
@@ -259,6 +263,7 @@ namespace best_frontier
 			// double tempDistance = mahattanDistance(currentPosition, currCandidate.first);
 			candidateDistances.push_back(std::make_pair(currCandidate.first, tempDistance));
 		}
+
 		// Find max element index
 		int maxElementIndex =
 			max_element(InfGainVector.begin(), InfGainVector.end()) - InfGainVector.begin();
@@ -298,7 +303,9 @@ namespace best_frontier
 			// Thêm điểm vào PoseArray
 			poseArray.poses.push_back(pose);
 		}
+
 		m_potentialPub.publish(poseArray);
+		visualCandidateGoal(poseArray);
 
 		ros::Time startWait = ros::Time::now();
 		ros::Duration timeout(m_waitTime);
@@ -426,6 +433,7 @@ namespace best_frontier
 		}
 		// Publish PoseArray chứa 3 điểm
 		m_potentialPub.publish(poseArray);
+		visualCandidateGoal(poseArray);
 
 		ros::Time startWait = ros::Time::now();
 		ros::Duration timeout(m_waitTime);
@@ -554,5 +562,34 @@ namespace best_frontier
 			}
 		}
 		return true;
+	}
+
+	void BestFrontier::visualCandidateGoal(const geometry_msgs::PoseArray array)
+	{
+		visualization_msgs::MarkerArray markerArray;
+		int id = 0;
+		for (const auto &pose : array.poses)
+		{
+			visualization_msgs::Marker marker;
+			marker.header.frame_id = m_worldFrameId;
+			marker.header.stamp = ros::Time::now();
+			marker.ns = "candidate_goals";
+			marker.id = id++;
+			marker.type = visualization_msgs::Marker::SPHERE;
+			marker.action = visualization_msgs::Marker::ADD;
+			marker.pose.position.x = pose.position.x;
+			marker.pose.position.y = pose.position.y;
+			marker.pose.position.z = pose.position.z;
+			marker.pose.orientation.w = 1.0;
+			marker.scale.x = 1.0;
+			marker.scale.y = marker.scale.x;
+			marker.scale.z = marker.scale.x;
+			marker.color.r = 1.0;
+			marker.color.g = 0.5;
+			marker.color.b = 0.0;
+			marker.color.a = 0.9;
+			markerArray.markers.push_back(marker);
+		}
+		m_candidateGoal.publish(markerArray);
 	}
 }

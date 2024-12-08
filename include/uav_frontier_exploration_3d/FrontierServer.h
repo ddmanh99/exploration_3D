@@ -10,7 +10,6 @@
 #include <std_msgs/Int32.h>
 // rrts
 
-
 namespace frontier_server
 {
   enum ExplorationState
@@ -88,7 +87,8 @@ namespace frontier_server
     ros::NodeHandle m_nh;
     ros::Publisher m_markerFrontierPub, m_markerFrontierParentPub, m_markerClusteredFrontierPub,
         m_bestFrontierPub, m_markerCandidatesPub, m_frontierMapPub, m_uavGoalPub,
-        m_pubEsmState;
+        m_pubEsmState,
+        m_goalMarkersPub;
     ros::Subscriber m_pointReachedSub, m_currentReferenceSub;
 
     octomap::OcTree *m_octree{NULL};
@@ -124,6 +124,7 @@ namespace frontier_server
     ros::ServiceServer m_serviceExploration;
     ExplorationState m_currentState = ExplorationState::OFF;
     double m_startTime;
+    std::vector<point3d> m_pastGoals;
   };
 }
 #endif

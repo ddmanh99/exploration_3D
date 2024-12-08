@@ -36,6 +36,8 @@ namespace frontier_server
 			visualization_msgs::MarkerArray>("clustered_frontier_cells_vis_array", 1, false);
 		m_uavGoalPub = m_nh.advertise<
 			geometry_msgs::PoseStamped>("exploration/goal", 1, false);
+		m_goalMarkersPub = m_nh.advertise<
+			visualization_msgs::MarkerArray>("past_goals_marker", 1, false);
 		m_pubEsmState = m_nh.advertise<std_msgs::Int32>("exploration/state", 1);
 
 		// Initialize subscribers
@@ -941,5 +943,33 @@ namespace frontier_server
 
 		m_uavGoalPub.publish(m_goal);
 		ROS_WARN_STREAM(goal.x() << " " << goal.y() << " " << goal.z() << " -> Goal published!");
+
+		m_pastGoals.push_back(goal);
+		visualization_msgs::MarkerArray markerArray;
+		int id = 0;
+		for (const auto &pastGoal : m_pastGoals)
+		{
+			visualization_msgs::Marker marker;
+			marker.header.frame_id = m_worldFrameId;
+			marker.header.stamp = ros::Time::now();
+			marker.ns = "past_goals";
+			marker.id = id++;
+			marker.type = visualization_msgs::Marker::SPHERE;
+			marker.action = visualization_msgs::Marker::ADD;
+			marker.pose.position.x = pastGoal.x();
+			marker.pose.position.y = pastGoal.y();
+			marker.pose.position.z = pastGoal.z();
+			marker.pose.orientation.w = 1.0;
+			marker.scale.x = 1.0;
+			marker.scale.y = marker.scale.x;
+			marker.scale.z = marker.scale.x;
+			marker.color.r = 0.0;
+			marker.color.g = 0.0;
+			marker.color.b = 0.0;
+			marker.color.a = 0.75;
+			markerArray.markers.push_back(marker);
+		}
+
+		m_goalMarkersPub.publish(markerArray);
 	}
 }

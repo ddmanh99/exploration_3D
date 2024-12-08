@@ -1,0 +1,2093 @@
+This is a log file for 3D-Frontier
+------------------------------
+Frontier exploration used total :1.2921e-05 sec
+------------------------------
+Frontier exploration used total :0.0181061 sec
+------------------------------
+Frontier exploration used total :4.5886e-05 sec
+------------------------------
+Frontier exploration used total :0.0178928 sec
+------------------------------
+Frontier exploration used total :0.0231544 sec
+------------------------------
+Frontier exploration used total :0.0311995 sec
+------------------------------
+Frontier exploration used total :0.032331 sec
+------------------------------
+Number of frontiers:1667
+findFrontier - used total: 0.0153166 sec
+Number of global frontiers before:1432
+Number of deleted frontiers:432
+Number of global frontiers after:1000
+updateGlobalFrontier - used total: 0.0127243 sec
+Number of parents: 110
+SearchForParents - used total: 0.000370861 sec
+publishFrontier
+Frontier exploration used total :0.0657445 sec
+------------------------------
+cluster_size: 30
+clusterFrontier used total: 0.00777399 sec
+publishClusteredFrontier
+Best frontier: (-0.75 -0.75 5.25)
+publishBestFrontier
+Frontier exploration used total :0.109748 sec
+------------------------------
+Frontier exploration used total :0.0341985 sec
+------------------------------
+Number of frontiers:89
+findFrontier - used total: 0.00192995 sec
+Number of global frontiers before:88
+Number of deleted frontiers:10
+Number of global frontiers after:78
+updateGlobalFrontier - used total: 0.00218801 sec
+Number of parents: 31
+SearchForParents - used total: 0.000386436 sec
+publishFrontier
+Frontier exploration used total :0.0408791 sec
+------------------------------
+Frontier exploration used total :0.0338863 sec
+------------------------------
+Number of frontiers:608
+findFrontier - used total: 0.0102104 sec
+Number of global frontiers before:430
+Number of deleted frontiers:78
+Number of global frontiers after:352
+updateGlobalFrontier - used total: 0.00380975 sec
+Number of parents: 73
+SearchForParents - used total: 0.00023879 sec
+publishFrontier
+Frontier exploration used total :0.0513488 sec
+------------------------------
+Frontier exploration used total :0.0337429 sec
+------------------------------
+Number of frontiers:337
+findFrontier - used total: 0.0030822 sec
+Number of global frontiers before:336
+Number of deleted frontiers:64
+Number of global frontiers after:272
+updateGlobalFrontier - used total: 0.00319081 sec
+Number of parents: 50
+SearchForParents - used total: 0.000252479 sec
+publishFrontier
+Frontier exploration used total :0.0410314 sec
+------------------------------
+Frontier exploration used total :0.0348403 sec
+------------------------------
+Number of frontiers:813
+findFrontier - used total: 0.00841293 sec
+Number of global frontiers before:647
+Number of deleted frontiers:63
+Number of global frontiers after:584
+updateGlobalFrontier - used total: 0.00583116 sec
+Number of parents: 80
+SearchForParents - used total: 0.000297139 sec
+publishFrontier
+Frontier exploration used total :0.0537503 sec
+------------------------------
+cluster_size: 21
+clusterFrontier used total: 0.00485948 sec
+publishClusteredFrontier
+Best frontier: (-4.75 -0.75 5.25)
+publishBestFrontier
+Frontier exploration used total :0.110895 sec
+------------------------------
+Frontier exploration used total :0.0442659 sec
+------------------------------
+Number of frontiers:82
+findFrontier - used total: 0.000746898 sec
+Number of global frontiers before:82
+Number of deleted frontiers:19
+Number of global frontiers after:63
+updateGlobalFrontier - used total: 0.000859075 sec
+Number of parents: 21
+SearchForParents - used total: 0.000148499 sec
+publishFrontier
+Frontier exploration used total :0.0421099 sec
+------------------------------
+Frontier exploration used total :0.0351135 sec
+------------------------------
+Number of frontiers:44
+findFrontier - used total: 0.000429712 sec
+Number of global frontiers before:43
+Number of deleted frontiers:5
+Number of global frontiers after:38
+updateGlobalFrontier - used total: 0.00045395 sec
+Number of parents: 21
+SearchForParents - used total: 0.000137533 sec
+publishFrontier
+Frontier exploration used total :0.039381 sec
+------------------------------
+Frontier exploration used total :0.0320342 sec
+------------------------------
+Number of frontiers:298
+findFrontier - used total: 0.00283364 sec
+Number of global frontiers before:298
+Number of deleted frontiers:87
+Number of global frontiers after:211
+updateGlobalFrontier - used total: 0.00279222 sec
+Number of parents: 43
+SearchForParents - used total: 0.00024985 sec
+publishFrontier
+Frontier exploration used total :0.0476325 sec
+------------------------------
+Frontier exploration used total :0.0333368 sec
+------------------------------
+Number of frontiers:420
+findFrontier - used total: 0.003797 sec
+Number of global frontiers before:357
+Number of deleted frontiers:85
+Number of global frontiers after:272
+updateGlobalFrontier - used total: 0.00325183 sec
+Number of parents: 55
+SearchForParents - used total: 0.000210106 sec
+publishFrontier
+Frontier exploration used total :0.0508286 sec
+------------------------------
+cluster_size: 12
+clusterFrontier used total: 0.00112324 sec
+publishClusteredFrontier
+Best frontier: (-8.75 -0.75 5.25)
+publishBestFrontier
+Frontier exploration used total :0.113388 sec
+------------------------------
+Frontier exploration used total :0.0393764 sec
+------------------------------
+Number of frontiers:117
+findFrontier - used total: 0.00279969 sec
+Number of global frontiers before:116
+Number of deleted frontiers:14
+Number of global frontiers after:102
+updateGlobalFrontier - used total: 0.00120455 sec
+Number of parents: 42
+SearchForParents - used total: 0.000191457 sec
+publishFrontier
+Frontier exploration used total :0.0480678 sec
+------------------------------
+Frontier exploration used total :0.0361666 sec
+------------------------------
+Number of frontiers:400
+findFrontier - used total: 0.00425451 sec
+Number of global frontiers before:398
+Number of deleted frontiers:99
+Number of global frontiers after:299
+updateGlobalFrontier - used total: 0.00366561 sec
+Number of parents: 73
+SearchForParents - used total: 0.000233295 sec
+publishFrontier
+Frontier exploration used total :0.054029 sec
+------------------------------
+Frontier exploration used total :0.0422194 sec
+------------------------------
+Number of frontiers:280
+findFrontier - used total: 0.00256982 sec
+Number of global frontiers before:277
+Number of deleted frontiers:67
+Number of global frontiers after:210
+updateGlobalFrontier - used total: 0.00278383 sec
+Number of parents: 55
+SearchForParents - used total: 0.00021276 sec
+publishFrontier
+Frontier exploration used total :0.0439185 sec
+------------------------------
+Frontier exploration used total :0.0354541 sec
+------------------------------
+Number of frontiers:143
+findFrontier - used total: 0.00132916 sec
+Number of global frontiers before:139
+Number of deleted frontiers:38
+Number of global frontiers after:101
+updateGlobalFrontier - used total: 0.00129172 sec
+Number of parents: 45
+SearchForParents - used total: 0.000157021 sec
+publishFrontier
+Frontier exploration used total :0.0433486 sec
+------------------------------
+cluster_size: 12
+clusterFrontier used total: 0.00139789 sec
+publishClusteredFrontier
+Best frontier: (-14.75 1.25 5.25)
+publishBestFrontier
+Frontier exploration used total :0.102399 sec
+------------------------------
+Frontier exploration used total :0.0311181 sec
+------------------------------
+Number of frontiers:120
+findFrontier - used total: 0.00127579 sec
+Number of global frontiers before:118
+Number of deleted frontiers:67
+Number of global frontiers after:51
+updateGlobalFrontier - used total: 0.00113574 sec
+Number of parents: 29
+SearchForParents - used total: 0.00017581 sec
+publishFrontier
+Frontier exploration used total :0.0395434 sec
+------------------------------
+Frontier exploration used total :0.0431394 sec
+------------------------------
+Number of frontiers:1138
+findFrontier - used total: 0.0122071 sec
+Number of global frontiers before:662
+Number of deleted frontiers:167
+Number of global frontiers after:495
+updateGlobalFrontier - used total: 0.00719709 sec
+Number of parents: 105
+SearchForParents - used total: 0.000477347 sec
+publishFrontier
+Frontier exploration used total :0.0726806 sec
+------------------------------
+Frontier exploration used total :0.0523667 sec
+------------------------------
+Number of frontiers:1886
+findFrontier - used total: 0.019441 sec
+Number of global frontiers before:770
+Number of deleted frontiers:86
+Number of global frontiers after:684
+updateGlobalFrontier - used total: 0.00819362 sec
+Number of parents: 132
+SearchForParents - used total: 0.000419652 sec
+publishFrontier
+Frontier exploration used total :0.09183 sec
+------------------------------
+Frontier exploration used total :0.0541707 sec
+------------------------------
+Number of frontiers:1248
+findFrontier - used total: 0.0127814 sec
+Number of global frontiers before:697
+Number of deleted frontiers:66
+Number of global frontiers after:631
+updateGlobalFrontier - used total: 0.007302 sec
+Number of parents: 115
+SearchForParents - used total: 0.000456602 sec
+publishFrontier
+Frontier exploration used total :0.108333 sec
+------------------------------
+Frontier exploration used total :0.0669353 sec
+------------------------------
+Number of frontiers:857
+findFrontier - used total: 0.00825264 sec
+Number of global frontiers before:764
+Number of deleted frontiers:117
+Number of global frontiers after:647
+updateGlobalFrontier - used total: 0.00725226 sec
+Number of parents: 135
+SearchForParents - used total: 0.000526171 sec
+publishFrontier
+Frontier exploration used total :0.0912348 sec
+------------------------------
+cluster_size: 27
+clusterFrontier used total: 0.00839757 sec
+publishClusteredFrontier
+Best frontier: (-14.75 3.25 1.25)
+publishBestFrontier
+Frontier exploration used total :0.131371 sec
+------------------------------
+Frontier exploration used total :0.0562872 sec
+------------------------------
+Number of frontiers:498
+findFrontier - used total: 0.00486455 sec
+Number of global frontiers before:325
+Number of deleted frontiers:112
+Number of global frontiers after:213
+updateGlobalFrontier - used total: 0.00426343 sec
+Number of parents: 69
+SearchForParents - used total: 0.000416298 sec
+publishFrontier
+Frontier exploration used total :0.0870297 sec
+------------------------------
+Frontier exploration used total :0.0851814 sec
+------------------------------
+Number of frontiers:891
+findFrontier - used total: 0.00956222 sec
+Number of global frontiers before:690
+Number of deleted frontiers:54
+Number of global frontiers after:636
+updateGlobalFrontier - used total: 0.00902403 sec
+Number of parents: 126
+SearchForParents - used total: 0.000694156 sec
+publishFrontier
+Frontier exploration used total :0.130733 sec
+------------------------------
+Frontier exploration used total :0.0744739 sec
+------------------------------
+Number of frontiers:153
+findFrontier - used total: 0.00167651 sec
+Number of global frontiers before:113
+Number of deleted frontiers:49
+Number of global frontiers after:64
+updateGlobalFrontier - used total: 0.00118694 sec
+Number of parents: 73
+SearchForParents - used total: 0.000479791 sec
+publishFrontier
+Frontier exploration used total :0.0758591 sec
+------------------------------
+Frontier exploration used total :0.0493208 sec
+------------------------------
+Number of frontiers:248
+findFrontier - used total: 0.00245539 sec
+Number of global frontiers before:203
+Number of deleted frontiers:97
+Number of global frontiers after:106
+updateGlobalFrontier - used total: 0.00206801 sec
+Number of parents: 73
+SearchForParents - used total: 0.000420489 sec
+publishFrontier
+Frontier exploration used total :0.0731657 sec
+------------------------------
+Frontier exploration used total :0.0573377 sec
+------------------------------
+Number of frontiers:151
+findFrontier - used total: 0.00152598 sec
+Number of global frontiers before:150
+Number of deleted frontiers:77
+Number of global frontiers after:73
+updateGlobalFrontier - used total: 0.0014092 sec
+Number of parents: 84
+SearchForParents - used total: 0.000381723 sec
+publishFrontier
+Frontier exploration used total :0.0666314 sec
+------------------------------
+cluster_size: 25
+clusterFrontier used total: 0.00272011 sec
+publishClusteredFrontier
+Best frontier: (-22.75 3.25 5.25)
+publishBestFrontier
+Frontier exploration used total :0.161563 sec
+------------------------------
+Frontier exploration used total :0.0662697 sec
+------------------------------
+Number of frontiers:121
+findFrontier - used total: 0.00115634 sec
+Number of global frontiers before:77
+Number of deleted frontiers:12
+Number of global frontiers after:65
+updateGlobalFrontier - used total: 0.000724049 sec
+Number of parents: 60
+SearchForParents - used total: 0.000331222 sec
+publishFrontier
+Frontier exploration used total :0.0775845 sec
+------------------------------
+Frontier exploration used total :0.0827901 sec
+------------------------------
+Number of frontiers:260
+findFrontier - used total: 0.00273352 sec
+Number of global frontiers before:199
+Number of deleted frontiers:46
+Number of global frontiers after:153
+updateGlobalFrontier - used total: 0.00200856 sec
+Number of parents: 66
+SearchForParents - used total: 0.000394295 sec
+publishFrontier
+Frontier exploration used total :0.10081 sec
+------------------------------
+Frontier exploration used total :0.0811247 sec
+------------------------------
+Number of frontiers:280
+findFrontier - used total: 0.00295745 sec
+Number of global frontiers before:227
+Number of deleted frontiers:50
+Number of global frontiers after:177
+updateGlobalFrontier - used total: 0.00213185 sec
+Number of parents: 69
+SearchForParents - used total: 0.000514015 sec
+publishFrontier
+Frontier exploration used total :0.122604 sec
+------------------------------
+Frontier exploration used total :0.106646 sec
+------------------------------
+Number of frontiers:1194
+findFrontier - used total: 0.0132267 sec
+Number of global frontiers before:648
+Number of deleted frontiers:107
+Number of global frontiers after:541
+updateGlobalFrontier - used total: 0.00768857 sec
+Number of parents: 105
+SearchForParents - used total: 0.00063597 sec
+publishFrontier
+Frontier exploration used total :0.165777 sec
+------------------------------
+Frontier exploration used total :0.107075 sec
+------------------------------
+Number of frontiers:405
+findFrontier - used total: 0.00499409 sec
+Number of global frontiers before:352
+Number of deleted frontiers:78
+Number of global frontiers after:274
+updateGlobalFrontier - used total: 0.00395167 sec
+Number of parents: 71
+SearchForParents - used total: 0.000858087 sec
+publishFrontier
+Frontier exploration used total :0.136198 sec
+------------------------------
+Frontier exploration used total :0.0947137 sec
+------------------------------
+Number of frontiers:311
+findFrontier - used total: 0.00328141 sec
+Number of global frontiers before:292
+Number of deleted frontiers:42
+Number of global frontiers after:250
+updateGlobalFrontier - used total: 0.00277612 sec
+Number of parents: 76
+SearchForParents - used total: 0.000453246 sec
+publishFrontier
+Frontier exploration used total :0.137041 sec
+------------------------------
+cluster_size: 25
+clusterFrontier used total: 0.00242709 sec
+publishClusteredFrontier
+Best frontier: (-24.75 -2.75 1.25)
+publishBestFrontier
+Frontier exploration used total :0.179115 sec
+------------------------------
+Frontier exploration used total :0.103961 sec
+------------------------------
+Number of frontiers:118
+findFrontier - used total: 0.00130113 sec
+Number of global frontiers before:100
+Number of deleted frontiers:44
+Number of global frontiers after:56
+updateGlobalFrontier - used total: 0.00108614 sec
+Number of parents: 34
+SearchForParents - used total: 0.000370545 sec
+publishFrontier
+Frontier exploration used total :0.0966441 sec
+------------------------------
+Frontier exploration used total :0.102674 sec
+------------------------------
+Number of frontiers:102
+findFrontier - used total: 0.00116814 sec
+Number of global frontiers before:100
+Number of deleted frontiers:20
+Number of global frontiers after:80
+updateGlobalFrontier - used total: 0.000961462 sec
+Number of parents: 42
+SearchForParents - used total: 0.000433968 sec
+publishFrontier
+Frontier exploration used total :0.096629 sec
+------------------------------
+Frontier exploration used total :0.100645 sec
+------------------------------
+Number of frontiers:80
+findFrontier - used total: 0.00082421 sec
+Number of global frontiers before:78
+Number of deleted frontiers:15
+Number of global frontiers after:63
+updateGlobalFrontier - used total: 0.0112887 sec
+Number of parents: 37
+SearchForParents - used total: 0.00118442 sec
+publishFrontier
+Frontier exploration used total :0.123476 sec
+------------------------------
+Frontier exploration used total :0.108466 sec
+------------------------------
+Number of frontiers:400
+findFrontier - used total: 0.00397339 sec
+Number of global frontiers before:351
+Number of deleted frontiers:63
+Number of global frontiers after:288
+updateGlobalFrontier - used total: 0.0036875 sec
+Number of parents: 69
+SearchForParents - used total: 0.000456109 sec
+publishFrontier
+Frontier exploration used total :0.112683 sec
+------------------------------
+Frontier exploration used total :0.0817069 sec
+------------------------------
+Number of frontiers:86
+findFrontier - used total: 0.000916199 sec
+Number of global frontiers before:42
+Number of deleted frontiers:26
+Number of global frontiers after:16
+updateGlobalFrontier - used total: 0.000431662 sec
+Number of parents: 33
+SearchForParents - used total: 0.000368729 sec
+publishFrontier
+Frontier exploration used total :0.0731389 sec
+------------------------------
+Frontier exploration used total :0.0660724 sec
+------------------------------
+Number of frontiers:20
+findFrontier - used total: 0.000207798 sec
+Number of global frontiers before:20
+Number of deleted frontiers:17
+Number of global frontiers after:3
+updateGlobalFrontier - used total: 0.000209195 sec
+Number of parents: 33
+SearchForParents - used total: 0.000314317 sec
+publishFrontier
+Frontier exploration used total :0.0727368 sec
+------------------------------
+cluster_size: 15
+clusterFrontier used total: 0.000428309 sec
+publishClusteredFrontier
+Best frontier: (-26.75 -10.75 3.25)
+publishBestFrontier
+Frontier exploration used total :0.153028 sec
+------------------------------
+Frontier exploration used total :0.0665771 sec
+------------------------------
+Number of frontiers:0
+findFrontier - used total: 1.2014e-05 sec
+Number of global frontiers before:0
+Number of deleted frontiers:0
+Number of global frontiers after:0
+updateGlobalFrontier - used total: 4.1979e-05 sec
+Number of parents: 25
+SearchForParents - used total: 0.000348751 sec
+publishFrontier
+Frontier exploration used total :0.0599039 sec
+------------------------------
+Frontier exploration used total :0.0534503 sec
+------------------------------
+Number of frontiers:128
+findFrontier - used total: 0.00167098 sec
+Number of global frontiers before:96
+Number of deleted frontiers:75
+Number of global frontiers after:21
+updateGlobalFrontier - used total: 0.00128716 sec
+Number of parents: 31
+SearchForParents - used total: 0.000739343 sec
+publishFrontier
+Frontier exploration used total :0.0584231 sec
+------------------------------
+Frontier exploration used total :0.0640565 sec
+------------------------------
+Number of frontiers:177
+findFrontier - used total: 0.00208867 sec
+Number of global frontiers before:145
+Number of deleted frontiers:33
+Number of global frontiers after:112
+updateGlobalFrontier - used total: 0.00175591 sec
+Number of parents: 50
+SearchForParents - used total: 0.00068088 sec
+publishFrontier
+Frontier exploration used total :0.0703106 sec
+------------------------------
+Frontier exploration used total :0.0631286 sec
+------------------------------
+Number of frontiers:146
+findFrontier - used total: 0.00136204 sec
+Number of global frontiers before:115
+Number of deleted frontiers:25
+Number of global frontiers after:90
+updateGlobalFrontier - used total: 0.0011877 sec
+Number of parents: 40
+SearchForParents - used total: 0.000475944 sec
+publishFrontier
+Frontier exploration used total :0.0674225 sec
+------------------------------
+Frontier exploration used total :0.077395 sec
+------------------------------
+Number of frontiers:1194
+findFrontier - used total: 0.0179126 sec
+Number of global frontiers before:752
+Number of deleted frontiers:160
+Number of global frontiers after:592
+updateGlobalFrontier - used total: 0.00752445 sec
+Number of parents: 68
+SearchForParents - used total: 0.000785791 sec
+publishFrontier
+Frontier exploration used total :0.12221 sec
+------------------------------
+Frontier exploration used total :0.075694 sec
+------------------------------
+Number of frontiers:218
+findFrontier - used total: 0.00237511 sec
+Number of global frontiers before:135
+Number of deleted frontiers:25
+Number of global frontiers after:110
+updateGlobalFrontier - used total: 0.00151354 sec
+Number of parents: 32
+SearchForParents - used total: 0.000523511 sec
+publishFrontier
+Frontier exploration used total :0.0861319 sec
+------------------------------
+Frontier exploration used total :0.0672023 sec
+------------------------------
+Number of frontiers:214
+findFrontier - used total: 0.0019723 sec
+Number of global frontiers before:45
+Number of deleted frontiers:6
+Number of global frontiers after:39
+updateGlobalFrontier - used total: 0.000449611 sec
+Number of parents: 28
+SearchForParents - used total: 0.000401975 sec
+publishFrontier
+Frontier exploration used total :0.0830905 sec
+------------------------------
+Frontier exploration used total :0.0716552 sec
+------------------------------
+Number of frontiers:3
+findFrontier - used total: 0.000101 sec
+Number of global frontiers before:3
+Number of deleted frontiers:1
+Number of global frontiers after:2
+updateGlobalFrontier - used total: 7.6903e-05 sec
+Number of parents: 27
+SearchForParents - used total: 0.000436829 sec
+publishFrontier
+Frontier exploration used total :0.0738603 sec
+------------------------------
+cluster_size: 16
+clusterFrontier used total: 0.000423698 sec
+publishClusteredFrontier
+Best frontier: (-26.75 -10.75 1.25)
+publishBestFrontier
+Frontier exploration used total :0.168119 sec
+------------------------------
+Frontier exploration used total :0.0700016 sec
+------------------------------
+Number of frontiers:2
+findFrontier - used total: 8.1443e-05 sec
+Number of global frontiers before:2
+Number of deleted frontiers:1
+Number of global frontiers after:1
+updateGlobalFrontier - used total: 8.277e-05 sec
+Number of parents: 26
+SearchForParents - used total: 0.00047748 sec
+publishFrontier
+Frontier exploration used total :0.0753176 sec
+------------------------------
+Frontier exploration used total :0.0657176 sec
+------------------------------
+Number of frontiers:9
+findFrontier - used total: 0.000223304 sec
+Number of global frontiers before:9
+Number of deleted frontiers:8
+Number of global frontiers after:1
+updateGlobalFrontier - used total: 0.000297133 sec
+Number of parents: 25
+SearchForParents - used total: 0.00053713 sec
+publishFrontier
+Frontier exploration used total :0.0791386 sec
+------------------------------
+Frontier exploration used total :0.068211 sec
+------------------------------
+Number of frontiers:33
+findFrontier - used total: 0.00038591 sec
+Number of global frontiers before:5
+Number of deleted frontiers:5
+Number of global frontiers after:0
+updateGlobalFrontier - used total: 0.00010519 sec
+Number of parents: 22
+SearchForParents - used total: 0.000584138 sec
+publishFrontier
+Frontier exploration used total :0.0728514 sec
+------------------------------
+Frontier exploration used total :0.0707309 sec
+------------------------------
+Number of frontiers:91
+findFrontier - used total: 0.000886159 sec
+Number of global frontiers before:1
+Number of deleted frontiers:1
+Number of global frontiers after:0
+updateGlobalFrontier - used total: 5.6018e-05 sec
+Number of parents: 20
+SearchForParents - used total: 0.000460786 sec
+publishFrontier
+Frontier exploration used total :0.117072 sec
+------------------------------
+Frontier exploration used total :0.0615445 sec
+------------------------------
+Number of frontiers:5
+findFrontier - used total: 9.8066e-05 sec
+Number of global frontiers before:5
+Number of deleted frontiers:5
+Number of global frontiers after:0
+updateGlobalFrontier - used total: 0.000108823 sec
+Number of parents: 20
+SearchForParents - used total: 0.000712587 sec
+publishFrontier
+Frontier exploration used total :0.0816952 sec
+------------------------------
+cluster_size: 12
+clusterFrontier used total: 0.000276109 sec
+publishClusteredFrontier
+Best frontier: (-2.75 11.25 3.25)
+publishBestFrontier
+Frontier exploration used total :0.151215 sec
+------------------------------
+Frontier exploration used total :0.0721421 sec
+------------------------------
+Number of frontiers:1
+findFrontier - used total: 8.0674e-05 sec
+Number of global frontiers before:1
+Number of deleted frontiers:1
+Number of global frontiers after:0
+updateGlobalFrontier - used total: 0.00012398 sec
+Number of parents: 20
+SearchForParents - used total: 0.000957333 sec
+publishFrontier
+Frontier exploration used total :0.073295 sec
+------------------------------
+Frontier exploration used total :0.0671198 sec
+------------------------------
+Number of frontiers:40
+findFrontier - used total: 0.000389192 sec
+Number of global frontiers before:37
+Number of deleted frontiers:25
+Number of global frontiers after:12
+updateGlobalFrontier - used total: 0.000349239 sec
+Number of parents: 24
+SearchForParents - used total: 0.0003579 sec
+publishFrontier
+Frontier exploration used total :0.0732108 sec
+------------------------------
+cluster_size: 13
+clusterFrontier used total: 0.000301882 sec
+publishClusteredFrontier
+Best frontier: (-6.75 -8.75 3.25)
+publishBestFrontier
+Frontier exploration used total :0.162996 sec
+------------------------------
+Frontier exploration used total :0.0663342 sec
+------------------------------
+Number of frontiers:1
+findFrontier - used total: 3.4505e-05 sec
+Number of global frontiers before:1
+Number of deleted frontiers:1
+Number of global frontiers after:0
+updateGlobalFrontier - used total: 5.0919e-05 sec
+Number of parents: 20
+SearchForParents - used total: 0.000391078 sec
+publishFrontier
+Frontier exploration used total :0.0764031 sec
+------------------------------
+Frontier exploration used total :0.0802685 sec
+------------------------------
+Number of frontiers:53
+findFrontier - used total: 0.000801293 sec
+Number of global frontiers before:53
+Number of deleted frontiers:52
+Number of global frontiers after:1
+updateGlobalFrontier - used total: 0.000633868 sec
+Number of parents: 21
+SearchForParents - used total: 0.000507164 sec
+publishFrontier
+Frontier exploration used total :0.0829855 sec
+------------------------------
+Frontier exploration used total :0.073728 sec
+------------------------------
+Number of frontiers:67
+findFrontier - used total: 0.000686742 sec
+Number of global frontiers before:61
+Number of deleted frontiers:46
+Number of global frontiers after:15
+updateGlobalFrontier - used total: 0.000579666 sec
+Number of parents: 22
+SearchForParents - used total: 0.000590073 sec
+publishFrontier
+Frontier exploration used total :0.074151 sec
+------------------------------
+Frontier exploration used total :0.067666 sec
+------------------------------
+Number of frontiers:73
+findFrontier - used total: 0.000791862 sec
+Number of global frontiers before:73
+Number of deleted frontiers:48
+Number of global frontiers after:25
+updateGlobalFrontier - used total: 0.000740804 sec
+Number of parents: 24
+SearchForParents - used total: 0.000498991 sec
+publishFrontier
+Frontier exploration used total :0.0796878 sec
+------------------------------
+Frontier exploration used total :0.0908019 sec
+------------------------------
+Number of frontiers:25
+findFrontier - used total: 0.000403928 sec
+Number of global frontiers before:20
+Number of deleted frontiers:5
+Number of global frontiers after:15
+updateGlobalFrontier - used total: 0.000260252 sec
+Number of parents: 24
+SearchForParents - used total: 0.000639803 sec
+publishFrontier
+Frontier exploration used total :0.0848594 sec
+------------------------------
+Frontier exploration used total :0.0714775 sec
+------------------------------
+Number of frontiers:63
+findFrontier - used total: 0.000666206 sec
+Number of global frontiers before:63
+Number of deleted frontiers:28
+Number of global frontiers after:35
+updateGlobalFrontier - used total: 0.000671585 sec
+Number of parents: 27
+SearchForParents - used total: 0.000458549 sec
+publishFrontier
+Frontier exploration used total :0.0803295 sec
+------------------------------
+Frontier exploration used total :0.0787399 sec
+------------------------------
+Number of frontiers:101
+findFrontier - used total: 0.00128617 sec
+Number of global frontiers before:101
+Number of deleted frontiers:54
+Number of global frontiers after:47
+updateGlobalFrontier - used total: 0.00108613 sec
+Number of parents: 30
+SearchForParents - used total: 0.000809463 sec
+publishFrontier
+Frontier exploration used total :0.0892756 sec
+------------------------------
+Frontier exploration used total :0.0759048 sec
+------------------------------
+Number of frontiers:58
+findFrontier - used total: 0.000662923 sec
+Number of global frontiers before:55
+Number of deleted frontiers:14
+Number of global frontiers after:41
+updateGlobalFrontier - used total: 0.0005724 sec
+Number of parents: 33
+SearchForParents - used total: 0.000473845 sec
+publishFrontier
+Frontier exploration used total :0.0860027 sec
+------------------------------
+Frontier exploration used total :0.0868088 sec
+------------------------------
+Number of frontiers:81
+findFrontier - used total: 0.000896213 sec
+Number of global frontiers before:40
+Number of deleted frontiers:4
+Number of global frontiers after:36
+updateGlobalFrontier - used total: 0.000440737 sec
+Number of parents: 30
+SearchForParents - used total: 0.000554519 sec
+publishFrontier
+Frontier exploration used total :0.082528 sec
+------------------------------
+cluster_size: 14
+clusterFrontier used total: 0.000573308 sec
+publishClusteredFrontier
+Best frontier: (5.25 -8.75 3.25)
+publishBestFrontier
+Frontier exploration used total :0.159427 sec
+------------------------------
+Frontier exploration used total :0.0677323 sec
+------------------------------
+Number of frontiers:3
+findFrontier - used total: 0.000134387 sec
+Number of global frontiers before:3
+Number of deleted frontiers:0
+Number of global frontiers after:3
+updateGlobalFrontier - used total: 0.000117064 sec
+Number of parents: 25
+SearchForParents - used total: 0.000878542 sec
+publishFrontier
+Frontier exploration used total :0.0716464 sec
+------------------------------
+Frontier exploration used total :0.0892808 sec
+------------------------------
+Number of frontiers:9
+findFrontier - used total: 0.00016491 sec
+Number of global frontiers before:9
+Number of deleted frontiers:9
+Number of global frontiers after:0
+updateGlobalFrontier - used total: 0.000161837 sec
+Number of parents: 21
+SearchForParents - used total: 0.000640989 sec
+publishFrontier
+Frontier exploration used total :0.0888583 sec
+------------------------------
+Frontier exploration used total :0.0680951 sec
+------------------------------
+Number of frontiers:16
+findFrontier - used total: 0.000367607 sec
+Number of global frontiers before:11
+Number of deleted frontiers:6
+Number of global frontiers after:5
+updateGlobalFrontier - used total: 0.000225188 sec
+Number of parents: 25
+SearchForParents - used total: 0.000666554 sec
+publishFrontier
+Frontier exploration used total :0.0855684 sec
+------------------------------
+Frontier exploration used total :0.0660348 sec
+------------------------------
+Number of frontiers:58
+findFrontier - used total: 0.000630233 sec
+Number of global frontiers before:58
+Number of deleted frontiers:12
+Number of global frontiers after:46
+updateGlobalFrontier - used total: 0.000605018 sec
+Number of parents: 30
+SearchForParents - used total: 0.000453589 sec
+publishFrontier
+Frontier exploration used total :0.0751938 sec
+------------------------------
+Frontier exploration used total :0.0786057 sec
+------------------------------
+Number of frontiers:57
+findFrontier - used total: 0.000638056 sec
+Number of global frontiers before:53
+Number of deleted frontiers:4
+Number of global frontiers after:49
+updateGlobalFrontier - used total: 0.000595519 sec
+Number of parents: 32
+SearchForParents - used total: 0.000675424 sec
+publishFrontier
+Frontier exploration used total :0.0754291 sec
+------------------------------
+Frontier exploration used total :0.0696872 sec
+------------------------------
+Number of frontiers:198
+findFrontier - used total: 0.00200951 sec
+Number of global frontiers before:195
+Number of deleted frontiers:39
+Number of global frontiers after:156
+updateGlobalFrontier - used total: 0.00220913 sec
+Number of parents: 42
+SearchForParents - used total: 0.000733187 sec
+publishFrontier
+Frontier exploration used total :0.078486 sec
+------------------------------
+Frontier exploration used total :0.066851 sec
+------------------------------
+Number of frontiers:108
+findFrontier - used total: 0.00102319 sec
+Number of global frontiers before:106
+Number of deleted frontiers:28
+Number of global frontiers after:78
+updateGlobalFrontier - used total: 0.00106817 sec
+Number of parents: 37
+SearchForParents - used total: 0.000824268 sec
+publishFrontier
+Frontier exploration used total :0.079639 sec
+------------------------------
+Frontier exploration used total :0.0649135 sec
+------------------------------
+Number of frontiers:47
+findFrontier - used total: 0.00059007 sec
+Number of global frontiers before:46
+Number of deleted frontiers:12
+Number of global frontiers after:34
+updateGlobalFrontier - used total: 0.000474193 sec
+Number of parents: 33
+SearchForParents - used total: 0.000566043 sec
+publishFrontier
+Frontier exploration used total :0.0830195 sec
+------------------------------
+Frontier exploration used total :0.0746261 sec
+------------------------------
+Number of frontiers:65
+findFrontier - used total: 0.00066341 sec
+Number of global frontiers before:65
+Number of deleted frontiers:23
+Number of global frontiers after:42
+updateGlobalFrontier - used total: 0.000717401 sec
+Number of parents: 31
+SearchForParents - used total: 0.000739822 sec
+publishFrontier
+Frontier exploration used total :0.0901165 sec
+------------------------------
+Frontier exploration used total :0.0802967 sec
+------------------------------
+Number of frontiers:59
+findFrontier - used total: 0.00126493 sec
+Number of global frontiers before:52
+Number of deleted frontiers:25
+Number of global frontiers after:27
+updateGlobalFrontier - used total: 0.000554937 sec
+Number of parents: 32
+SearchForParents - used total: 0.000709788 sec
+publishFrontier
+Frontier exploration used total :0.0884545 sec
+------------------------------
+Frontier exploration used total :0.0761366 sec
+------------------------------
+Number of frontiers:149
+findFrontier - used total: 0.00152421 sec
+Number of global frontiers before:140
+Number of deleted frontiers:37
+Number of global frontiers after:103
+updateGlobalFrontier - used total: 0.00132284 sec
+Number of parents: 48
+SearchForParents - used total: 0.000638683 sec
+publishFrontier
+Frontier exploration used total :0.0794229 sec
+------------------------------
+cluster_size: 21
+clusterFrontier used total: 0.00100238 sec
+publishClusteredFrontier
+Best frontier: (9.25 -8.75 3.25)
+publishBestFrontier
+Frontier exploration used total :0.152896 sec
+------------------------------
+Frontier exploration used total :0.0812931 sec
+------------------------------
+Number of frontiers:70
+findFrontier - used total: 0.000784105 sec
+Number of global frontiers before:69
+Number of deleted frontiers:34
+Number of global frontiers after:35
+updateGlobalFrontier - used total: 0.000672489 sec
+Number of parents: 32
+SearchForParents - used total: 0.000806315 sec
+publishFrontier
+Frontier exploration used total :0.0861128 sec
+------------------------------
+Frontier exploration used total :0.0770997 sec
+------------------------------
+Number of frontiers:94
+findFrontier - used total: 0.00115611 sec
+Number of global frontiers before:94
+Number of deleted frontiers:32
+Number of global frontiers after:62
+updateGlobalFrontier - used total: 0.000930294 sec
+Number of parents: 42
+SearchForParents - used total: 0.000629322 sec
+publishFrontier
+Frontier exploration used total :0.0782425 sec
+------------------------------
+Frontier exploration used total :0.0703496 sec
+------------------------------
+Number of frontiers:99
+findFrontier - used total: 0.00113565 sec
+Number of global frontiers before:99
+Number of deleted frontiers:36
+Number of global frontiers after:63
+updateGlobalFrontier - used total: 0.0010475 sec
+Number of parents: 43
+SearchForParents - used total: 0.000996718 sec
+publishFrontier
+Frontier exploration used total :0.0961216 sec
+------------------------------
+Frontier exploration used total :0.0689266 sec
+------------------------------
+Number of frontiers:139
+findFrontier - used total: 0.00150814 sec
+Number of global frontiers before:138
+Number of deleted frontiers:43
+Number of global frontiers after:95
+updateGlobalFrontier - used total: 0.00131459 sec
+Number of parents: 46
+SearchForParents - used total: 0.000728575 sec
+publishFrontier
+Frontier exploration used total :0.0862848 sec
+------------------------------
+Frontier exploration used total :0.0821324 sec
+------------------------------
+Number of frontiers:65
+findFrontier - used total: 0.000679682 sec
+Number of global frontiers before:62
+Number of deleted frontiers:23
+Number of global frontiers after:39
+updateGlobalFrontier - used total: 0.00063931 sec
+Number of parents: 37
+SearchForParents - used total: 0.000819655 sec
+publishFrontier
+Frontier exploration used total :0.10382 sec
+------------------------------
+Frontier exploration used total :0.0858132 sec
+------------------------------
+Number of frontiers:260
+findFrontier - used total: 0.00311664 sec
+Number of global frontiers before:260
+Number of deleted frontiers:24
+Number of global frontiers after:236
+updateGlobalFrontier - used total: 0.00288538 sec
+Number of parents: 60
+SearchForParents - used total: 0.000796955 sec
+publishFrontier
+Frontier exploration used total :0.0974291 sec
+------------------------------
+Frontier exploration used total :0.0898947 sec
+------------------------------
+Number of frontiers:102
+findFrontier - used total: 0.00132835 sec
+Number of global frontiers before:90
+Number of deleted frontiers:10
+Number of global frontiers after:80
+updateGlobalFrontier - used total: 0.00100112 sec
+Number of parents: 55
+SearchForParents - used total: 0.000774394 sec
+publishFrontier
+Frontier exploration used total :0.0912012 sec
+------------------------------
+cluster_size: 24
+clusterFrontier used total: 0.00105218 sec
+publishClusteredFrontier
+Best frontier: (15.25 -10.75 5.25)
+publishBestFrontier
+Frontier exploration used total :0.172366 sec
+------------------------------
+Frontier exploration used total :0.0858769 sec
+------------------------------
+Number of frontiers:252
+findFrontier - used total: 0.0025988 sec
+Number of global frontiers before:218
+Number of deleted frontiers:37
+Number of global frontiers after:181
+updateGlobalFrontier - used total: 0.00202207 sec
+Number of parents: 53
+SearchForParents - used total: 0.000574631 sec
+publishFrontier
+Frontier exploration used total :0.0935683 sec
+------------------------------
+Frontier exploration used total :0.0923719 sec
+------------------------------
+Number of frontiers:419
+findFrontier - used total: 0.00397758 sec
+Number of global frontiers before:417
+Number of deleted frontiers:65
+Number of global frontiers after:352
+updateGlobalFrontier - used total: 0.00431354 sec
+Number of parents: 82
+SearchForParents - used total: 0.000798002 sec
+publishFrontier
+Frontier exploration used total :0.105445 sec
+------------------------------
+Frontier exploration used total :0.0839533 sec
+------------------------------
+Number of frontiers:93
+findFrontier - used total: 0.00119746 sec
+Number of global frontiers before:86
+Number of deleted frontiers:32
+Number of global frontiers after:54
+updateGlobalFrontier - used total: 0.00104449 sec
+Number of parents: 72
+SearchForParents - used total: 0.000709017 sec
+publishFrontier
+Frontier exploration used total :0.100386 sec
+------------------------------
+Frontier exploration used total :0.0858945 sec
+------------------------------
+Number of frontiers:288
+findFrontier - used total: 0.00273562 sec
+Number of global frontiers before:280
+Number of deleted frontiers:98
+Number of global frontiers after:182
+updateGlobalFrontier - used total: 0.00283921 sec
+Number of parents: 85
+SearchForParents - used total: 0.000733253 sec
+publishFrontier
+Frontier exploration used total :0.121402 sec
+------------------------------
+Frontier exploration used total :0.0911376 sec
+------------------------------
+Number of frontiers:1108
+findFrontier - used total: 0.0108226 sec
+Number of global frontiers before:625
+Number of deleted frontiers:202
+Number of global frontiers after:423
+updateGlobalFrontier - used total: 0.00774833 sec
+Number of parents: 129
+SearchForParents - used total: 0.000843122 sec
+publishFrontier
+Frontier exploration used total :0.144065 sec
+------------------------------
+Frontier exploration used total :0.093296 sec
+------------------------------
+Number of frontiers:1246
+findFrontier - used total: 0.0136271 sec
+Number of global frontiers before:917
+Number of deleted frontiers:114
+Number of global frontiers after:803
+updateGlobalFrontier - used total: 0.0119261 sec
+Number of parents: 159
+SearchForParents - used total: 0.000953619 sec
+publishFrontier
+Frontier exploration used total :0.147373 sec
+------------------------------
+cluster_size: 45
+clusterFrontier used total: 0.0104976 sec
+publishClusteredFrontier
+Best frontier: (21.25 -8.75 5.25)
+publishBestFrontier
+Frontier exploration used total :0.234867 sec
+------------------------------
+Frontier exploration used total :0.0970201 sec
+------------------------------
+Number of frontiers:266
+findFrontier - used total: 0.00308136 sec
+Number of global frontiers before:212
+Number of deleted frontiers:48
+Number of global frontiers after:164
+updateGlobalFrontier - used total: 0.00230683 sec
+Number of parents: 82
+SearchForParents - used total: 0.000744498 sec
+publishFrontier
+Frontier exploration used total :0.12161 sec
+------------------------------
+Frontier exploration used total :0.11026 sec
+------------------------------
+Number of frontiers:675
+findFrontier - used total: 0.00681069 sec
+Number of global frontiers before:464
+Number of deleted frontiers:88
+Number of global frontiers after:376
+updateGlobalFrontier - used total: 0.00475014 sec
+Number of parents: 133
+SearchForParents - used total: 0.000876298 sec
+publishFrontier
+Frontier exploration used total :0.156206 sec
+------------------------------
+Frontier exploration used total :0.102933 sec
+------------------------------
+Number of frontiers:772
+findFrontier - used total: 0.00805739 sec
+Number of global frontiers before:577
+Number of deleted frontiers:114
+Number of global frontiers after:463
+updateGlobalFrontier - used total: 0.00600501 sec
+Number of parents: 128
+SearchForParents - used total: 0.000703637 sec
+publishFrontier
+Frontier exploration used total :0.155136 sec
+------------------------------
+Frontier exploration used total :0.122386 sec
+------------------------------
+Number of frontiers:1174
+findFrontier - used total: 0.0114901 sec
+Number of global frontiers before:960
+Number of deleted frontiers:166
+Number of global frontiers after:794
+updateGlobalFrontier - used total: 0.00875976 sec
+Number of parents: 172
+SearchForParents - used total: 0.00104449 sec
+publishFrontier
+Frontier exploration used total :0.163206 sec
+------------------------------
+Frontier exploration used total :0.12677 sec
+------------------------------
+Number of frontiers:2124
+findFrontier - used total: 0.0213137 sec
+Number of global frontiers before:911
+Number of deleted frontiers:127
+Number of global frontiers after:784
+updateGlobalFrontier - used total: 0.0146026 sec
+Number of parents: 158
+SearchForParents - used total: 0.0027016 sec
+publishFrontier
+Frontier exploration used total :0.22021 sec
+------------------------------
+cluster_size: 46
+clusterFrontier used total: 0.0172587 sec
+publishClusteredFrontier
+Best frontier: (19.25 -4.75 1.25)
+publishBestFrontier
+Frontier exploration used total :0.247237 sec
+------------------------------
+Frontier exploration used total :0.133316 sec
+------------------------------
+Number of frontiers:117
+findFrontier - used total: 0.00168233 sec
+Number of global frontiers before:99
+Number of deleted frontiers:21
+Number of global frontiers after:78
+updateGlobalFrontier - used total: 0.00153104 sec
+Number of parents: 63
+SearchForParents - used total: 0.000836275 sec
+publishFrontier
+Frontier exploration used total :0.153454 sec
+------------------------------
+Frontier exploration used total :0.127095 sec
+------------------------------
+Number of frontiers:167
+findFrontier - used total: 0.00168917 sec
+Number of global frontiers before:106
+Number of deleted frontiers:38
+Number of global frontiers after:68
+updateGlobalFrontier - used total: 0.000988471 sec
+Number of parents: 59
+SearchForParents - used total: 0.000867008 sec
+publishFrontier
+Frontier exploration used total :0.146592 sec
+------------------------------
+Frontier exploration used total :0.118011 sec
+------------------------------
+Number of frontiers:205
+findFrontier - used total: 0.00196835 sec
+Number of global frontiers before:190
+Number of deleted frontiers:30
+Number of global frontiers after:160
+updateGlobalFrontier - used total: 0.00183473 sec
+Number of parents: 66
+SearchForParents - used total: 0.0010491 sec
+publishFrontier
+Frontier exploration used total :0.142196 sec
+------------------------------
+Frontier exploration used total :0.140278 sec
+------------------------------
+Number of frontiers:26
+findFrontier - used total: 0.000375845 sec
+Number of global frontiers before:25
+Number of deleted frontiers:16
+Number of global frontiers after:9
+updateGlobalFrontier - used total: 0.00033282 sec
+Number of parents: 50
+SearchForParents - used total: 0.00107857 sec
+publishFrontier
+Frontier exploration used total :0.126683 sec
+------------------------------
+Frontier exploration used total :0.106653 sec
+------------------------------
+Number of frontiers:32
+findFrontier - used total: 0.000366066 sec
+Number of global frontiers before:29
+Number of deleted frontiers:24
+Number of global frontiers after:5
+updateGlobalFrontier - used total: 0.000369279 sec
+Number of parents: 46
+SearchForParents - used total: 0.000634906 sec
+publishFrontier
+Frontier exploration used total :0.131102 sec
+------------------------------
+Frontier exploration used total :0.118301 sec
+------------------------------
+Number of frontiers:807
+findFrontier - used total: 0.00728046 sec
+Number of global frontiers before:478
+Number of deleted frontiers:45
+Number of global frontiers after:433
+updateGlobalFrontier - used total: 0.00451978 sec
+Number of parents: 91
+SearchForParents - used total: 0.00129684 sec
+publishFrontier
+Frontier exploration used total :0.175721 sec
+------------------------------
+cluster_size: 30
+clusterFrontier used total: 0.00295465 sec
+publishClusteredFrontier
+Best frontier: (17.25 3.25 5.25)
+publishBestFrontier
+Frontier exploration used total :0.174264 sec
+------------------------------
+Frontier exploration used total :0.117524 sec
+------------------------------
+Number of frontiers:2
+findFrontier - used total: 9.3944e-05 sec
+Number of global frontiers before:2
+Number of deleted frontiers:2
+Number of global frontiers after:0
+updateGlobalFrontier - used total: 0.000165746 sec
+Number of parents: 41
+SearchForParents - used total: 0.000922254 sec
+publishFrontier
+Frontier exploration used total :0.131743 sec
+------------------------------
+Frontier exploration used total :0.125326 sec
+------------------------------
+Number of frontiers:133
+findFrontier - used total: 0.00141328 sec
+Number of global frontiers before:108
+Number of deleted frontiers:16
+Number of global frontiers after:92
+updateGlobalFrontier - used total: 0.000998387 sec
+Number of parents: 61
+SearchForParents - used total: 0.000833829 sec
+publishFrontier
+Frontier exploration used total :0.124328 sec
+------------------------------
+Frontier exploration used total :0.107391 sec
+------------------------------
+Number of frontiers:302
+findFrontier - used total: 0.00302701 sec
+Number of global frontiers before:247
+Number of deleted frontiers:22
+Number of global frontiers after:225
+updateGlobalFrontier - used total: 0.00250435 sec
+Number of parents: 78
+SearchForParents - used total: 0.000963603 sec
+publishFrontier
+Frontier exploration used total :0.135605 sec
+------------------------------
+Frontier exploration used total :0.116633 sec
+------------------------------
+Number of frontiers:131
+findFrontier - used total: 0.00284352 sec
+Number of global frontiers before:128
+Number of deleted frontiers:32
+Number of global frontiers after:96
+updateGlobalFrontier - used total: 0.00183466 sec
+Number of parents: 73
+SearchForParents - used total: 0.000675136 sec
+publishFrontier
+Frontier exploration used total :0.144634 sec
+------------------------------
+Frontier exploration used total :0.139823 sec
+------------------------------
+Number of frontiers:1122
+findFrontier - used total: 0.0113571 sec
+Number of global frontiers before:447
+Number of deleted frontiers:135
+Number of global frontiers after:312
+updateGlobalFrontier - used total: 0.00493927 sec
+Number of parents: 94
+SearchForParents - used total: 0.00131584 sec
+publishFrontier
+Frontier exploration used total :0.171478 sec
+------------------------------
+Frontier exploration used total :0.132188 sec
+------------------------------
+Number of frontiers:681
+findFrontier - used total: 0.00743418 sec
+Number of global frontiers before:454
+Number of deleted frontiers:33
+Number of global frontiers after:421
+updateGlobalFrontier - used total: 0.00488108 sec
+Number of parents: 117
+SearchForParents - used total: 0.000978969 sec
+publishFrontier
+Frontier exploration used total :0.178143 sec
+------------------------------
+Frontier exploration used total :0.140736 sec
+------------------------------
+Number of frontiers:518
+findFrontier - used total: 0.00479545 sec
+Number of global frontiers before:339
+Number of deleted frontiers:12
+Number of global frontiers after:327
+updateGlobalFrontier - used total: 0.00369844 sec
+Number of parents: 105
+SearchForParents - used total: 0.00104428 sec
+publishFrontier
+Frontier exploration used total :0.171593 sec
+------------------------------
+Frontier exploration used total :0.152884 sec
+------------------------------
+Number of frontiers:627
+findFrontier - used total: 0.00759797 sec
+Number of global frontiers before:420
+Number of deleted frontiers:51
+Number of global frontiers after:369
+updateGlobalFrontier - used total: 0.00474285 sec
+Number of parents: 118
+SearchForParents - used total: 0.000886701 sec
+publishFrontier
+Frontier exploration used total :0.178194 sec
+------------------------------
+cluster_size: 38
+clusterFrontier used total: 0.00522891 sec
+publishClusteredFrontier
+Best frontier: (13.25 5.25 1.25)
+publishBestFrontier
+Frontier exploration used total :0.228911 sec
+------------------------------
+Frontier exploration used total :0.123495 sec
+------------------------------
+Number of frontiers:224
+findFrontier - used total: 0.00234838 sec
+Number of global frontiers before:184
+Number of deleted frontiers:24
+Number of global frontiers after:160
+updateGlobalFrontier - used total: 0.0022955 sec
+Number of parents: 78
+SearchForParents - used total: 0.001747 sec
+publishFrontier
+Frontier exploration used total :0.174202 sec
+------------------------------
+Frontier exploration used total :0.144556 sec
+------------------------------
+Number of frontiers:197
+findFrontier - used total: 0.00358054 sec
+Number of global frontiers before:118
+Number of deleted frontiers:15
+Number of global frontiers after:103
+updateGlobalFrontier - used total: 0.00249512 sec
+Number of parents: 96
+SearchForParents - used total: 0.00100481 sec
+publishFrontier
+Frontier exploration used total :0.16866 sec
+------------------------------
+Frontier exploration used total :0.143411 sec
+------------------------------
+Number of frontiers:343
+findFrontier - used total: 0.00323165 sec
+Number of global frontiers before:318
+Number of deleted frontiers:0
+Number of global frontiers after:318
+updateGlobalFrontier - used total: 0.00353632 sec
+Number of parents: 109
+SearchForParents - used total: 0.00145616 sec
+publishFrontier
+Frontier exploration used total :0.178135 sec
+------------------------------
+Frontier exploration used total :0.135092 sec
+------------------------------
+Number of frontiers:223
+findFrontier - used total: 0.00218633 sec
+Number of global frontiers before:192
+Number of deleted frontiers:1
+Number of global frontiers after:191
+updateGlobalFrontier - used total: 0.00192573 sec
+Number of parents: 98
+SearchForParents - used total: 0.00101319 sec
+publishFrontier
+Frontier exploration used total :0.165496 sec
+------------------------------
+Frontier exploration used total :0.13168 sec
+------------------------------
+Number of frontiers:50
+findFrontier - used total: 0.000705657 sec
+Number of global frontiers before:45
+Number of deleted frontiers:13
+Number of global frontiers after:32
+updateGlobalFrontier - used total: 0.000522311 sec
+Number of parents: 71
+SearchForParents - used total: 0.000930144 sec
+publishFrontier
+Frontier exploration used total :0.1497 sec
+------------------------------
+cluster_size: 31
+clusterFrontier used total: 0.00180357 sec
+publishClusteredFrontier
+Best frontier: (15.25 -2.75 1.25)
+publishBestFrontier
+Frontier exploration used total :0.248963 sec
+------------------------------
+Frontier exploration used total :0.128546 sec
+------------------------------
+Number of frontiers:0
+findFrontier - used total: 1.9418e-05 sec
+Number of global frontiers before:0
+Number of deleted frontiers:0
+Number of global frontiers after:0
+updateGlobalFrontier - used total: 6.6215e-05 sec
+Number of parents: 57
+SearchForParents - used total: 0.000788565 sec
+publishFrontier
+Frontier exploration used total :0.12123 sec
+------------------------------
+Frontier exploration used total :0.139646 sec
+------------------------------
+Number of frontiers:215
+findFrontier - used total: 0.00213925 sec
+Number of global frontiers before:173
+Number of deleted frontiers:26
+Number of global frontiers after:147
+updateGlobalFrontier - used total: 0.00175615 sec
+Number of parents: 73
+SearchForParents - used total: 0.000761814 sec
+publishFrontier
+Frontier exploration used total :0.149372 sec
+------------------------------
+cluster_size: 32
+clusterFrontier used total: 0.00175014 sec
+publishClusteredFrontier
+Best frontier: (15.25 9.25 1.25)
+publishBestFrontier
+Frontier exploration used total :0.199628 sec
+------------------------------
+Frontier exploration used total :0.121237 sec
+------------------------------
+Number of frontiers:62
+findFrontier - used total: 0.000795828 sec
+Number of global frontiers before:50
+Number of deleted frontiers:13
+Number of global frontiers after:37
+updateGlobalFrontier - used total: 0.000532647 sec
+Number of parents: 60
+SearchForParents - used total: 0.000743514 sec
+publishFrontier
+Frontier exploration used total :0.138647 sec
+------------------------------
+Frontier exploration used total :0.117859 sec
+------------------------------
+Number of frontiers:82
+findFrontier - used total: 0.00220882 sec
+Number of global frontiers before:77
+Number of deleted frontiers:28
+Number of global frontiers after:49
+updateGlobalFrontier - used total: 0.00261651 sec
+Number of parents: 58
+SearchForParents - used total: 0.00174923 sec
+publishFrontier
+Frontier exploration used total :0.152363 sec
+------------------------------
+Frontier exploration used total :0.109962 sec
+------------------------------
+Number of frontiers:168
+findFrontier - used total: 0.00175559 sec
+Number of global frontiers before:164
+Number of deleted frontiers:136
+Number of global frontiers after:28
+updateGlobalFrontier - used total: 0.00150114 sec
+Number of parents: 54
+SearchForParents - used total: 0.00109505 sec
+publishFrontier
+Frontier exploration used total :0.134738 sec
+------------------------------
+Frontier exploration used total :0.12645 sec
+------------------------------
+Number of frontiers:114
+findFrontier - used total: 0.00105461 sec
+Number of global frontiers before:107
+Number of deleted frontiers:71
+Number of global frontiers after:36
+updateGlobalFrontier - used total: 0.000996497 sec
+Number of parents: 54
+SearchForParents - used total: 0.000612481 sec
+publishFrontier
+Frontier exploration used total :0.150145 sec
+------------------------------
+Frontier exploration used total :0.118341 sec
+------------------------------
+Number of frontiers:104
+findFrontier - used total: 0.00106222 sec
+Number of global frontiers before:95
+Number of deleted frontiers:44
+Number of global frontiers after:51
+updateGlobalFrontier - used total: 0.000917919 sec
+Number of parents: 56
+SearchForParents - used total: 0.00104273 sec
+publishFrontier
+Frontier exploration used total :0.139914 sec
+------------------------------
+Frontier exploration used total :0.12467 sec
+------------------------------
+Number of frontiers:41
+findFrontier - used total: 0.000504918 sec
+Number of global frontiers before:31
+Number of deleted frontiers:28
+Number of global frontiers after:3
+updateGlobalFrontier - used total: 0.000344412 sec
+Number of parents: 48
+SearchForParents - used total: 0.000846675 sec
+publishFrontier
+Frontier exploration used total :0.135265 sec
+------------------------------
+cluster_size: 25
+clusterFrontier used total: 0.000922458 sec
+publishClusteredFrontier
+Best frontier: (29.25 11.25 5.25)
+publishBestFrontier
+Frontier exploration used total :0.187233 sec
+------------------------------
+Frontier exploration used total :0.111717 sec
+------------------------------
+Number of frontiers:0
+findFrontier - used total: 2.724e-05 sec
+Number of global frontiers before:0
+Number of deleted frontiers:0
+Number of global frontiers after:0
+updateGlobalFrontier - used total: 0.000110497 sec
+Number of parents: 46
+SearchForParents - used total: 0.00128314 sec
+publishFrontier
+Frontier exploration used total :0.133094 sec
+------------------------------
+Frontier exploration used total :0.112886 sec
+------------------------------
+Number of frontiers:22
+findFrontier - used total: 0.000262551 sec
+Number of global frontiers before:21
+Number of deleted frontiers:7
+Number of global frontiers after:14
+updateGlobalFrontier - used total: 0.000249002 sec
+Number of parents: 51
+SearchForParents - used total: 0.00102499 sec
+publishFrontier
+Frontier exploration used total :0.127281 sec
+------------------------------
+Frontier exploration used total :0.1117 sec
+------------------------------
+Number of frontiers:67
+findFrontier - used total: 0.000722209 sec
+Number of global frontiers before:67
+Number of deleted frontiers:6
+Number of global frontiers after:61
+updateGlobalFrontier - used total: 0.000737785 sec
+Number of parents: 56
+SearchForParents - used total: 0.00117055 sec
+publishFrontier
+Frontier exploration used total :0.149726 sec
+------------------------------
+Frontier exploration used total :0.118171 sec
+------------------------------
+Number of frontiers:33
+findFrontier - used total: 0.000320524 sec
+Number of global frontiers before:32
+Number of deleted frontiers:5
+Number of global frontiers after:27
+updateGlobalFrontier - used total: 0.000346297 sec
+Number of parents: 52
+SearchForParents - used total: 0.0006129 sec
+publishFrontier
+Frontier exploration used total :0.147179 sec
+------------------------------
+Frontier exploration used total :0.129833 sec
+------------------------------
+Number of frontiers:155
+findFrontier - used total: 0.00153696 sec
+Number of global frontiers before:154
+Number of deleted frontiers:9
+Number of global frontiers after:145
+updateGlobalFrontier - used total: 0.00141655 sec
+Number of parents: 66
+SearchForParents - used total: 0.000955774 sec
+publishFrontier
+Frontier exploration used total :0.145022 sec
+------------------------------
+Frontier exploration used total :0.125732 sec
+------------------------------
+Number of frontiers:1155
+findFrontier - used total: 0.0107705 sec
+Number of global frontiers before:440
+Number of deleted frontiers:19
+Number of global frontiers after:421
+updateGlobalFrontier - used total: 0.00466935 sec
+Number of parents: 76
+SearchForParents - used total: 0.00133336 sec
+publishFrontier
+Frontier exploration used total :0.182851 sec
+------------------------------
+Frontier exploration used total :0.132117 sec
+------------------------------
+Number of frontiers:81
+findFrontier - used total: 0.000806443 sec
+Number of global frontiers before:43
+Number of deleted frontiers:0
+Number of global frontiers after:43
+updateGlobalFrontier - used total: 0.000609966 sec
+Number of parents: 54
+SearchForParents - used total: 0.000990767 sec
+publishFrontier
+Frontier exploration used total :0.14146 sec
+------------------------------
+Frontier exploration used total :0.120967 sec
+------------------------------
+Number of frontiers:1
+findFrontier - used total: 7.2919e-05 sec
+Number of global frontiers before:1
+Number of deleted frontiers:0
+Number of global frontiers after:1
+updateGlobalFrontier - used total: 0.000128098 sec
+Number of parents: 42
+SearchForParents - used total: 0.00114149 sec
+publishFrontier
+Frontier exploration used total :0.135201 sec
+------------------------------
+Frontier exploration used total :0.125785 sec
+------------------------------
+Number of frontiers:0
+findFrontier - used total: 5.6785e-05 sec
+Number of global frontiers before:0
+Number of deleted frontiers:0
+Number of global frontiers after:0
+updateGlobalFrontier - used total: 8.8704e-05 sec
+Number of parents: 41
+SearchForParents - used total: 0.00129495 sec
+publishFrontier
+Frontier exploration used total :0.151655 sec
+------------------------------
+Frontier exploration used total :0.13202 sec
+------------------------------
+Number of frontiers:7
+findFrontier - used total: 9.541e-05 sec
+Number of global frontiers before:7
+Number of deleted frontiers:0
+Number of global frontiers after:7
+updateGlobalFrontier - used total: 9.981e-05 sec
+Number of parents: 44
+SearchForParents - used total: 0.000815732 sec
+publishFrontier
+Frontier exploration used total :0.134391 sec
+------------------------------
+Frontier exploration used total :0.125936 sec
+------------------------------
+Number of frontiers:1
+findFrontier - used total: 3.5342e-05 sec
+Number of global frontiers before:0
+Number of deleted frontiers:0
+Number of global frontiers after:0
+updateGlobalFrontier - used total: 4.1488e-05 sec
+Number of parents: 41
+SearchForParents - used total: 0.000750285 sec
+publishFrontier
+Frontier exploration used total :0.139516 sec
+------------------------------
+Frontier exploration used total :0.119493 sec
+------------------------------
+Number of frontiers:73
+findFrontier - used total: 0.000745955 sec
+Number of global frontiers before:61
+Number of deleted frontiers:7
+Number of global frontiers after:54
+updateGlobalFrontier - used total: 0.000671709 sec
+Number of parents: 56
+SearchForParents - used total: 0.00112808 sec
+publishFrontier
+Frontier exploration used total :0.157121 sec
+------------------------------
+cluster_size: 25
+clusterFrontier used total: 0.00128223 sec
+publishClusteredFrontier
+Best frontier: (25.25 9.25 5.25)
+publishBestFrontier
+Frontier exploration used total :0.244283 sec
+------------------------------
+Frontier exploration used total :0.112551 sec
+------------------------------
+Number of frontiers:3
+findFrontier - used total: 7.9625e-05 sec
+Number of global frontiers before:3
+Number of deleted frontiers:1
+Number of global frontiers after:2
+updateGlobalFrontier - used total: 0.000112452 sec
+Number of parents: 41
+SearchForParents - used total: 0.00099733 sec
+publishFrontier
+Frontier exploration used total :0.138015 sec
+------------------------------
+Frontier exploration used total :0.129254 sec
+------------------------------
+Number of frontiers:7
+findFrontier - used total: 0.000172799 sec
+Number of global frontiers before:7
+Number of deleted frontiers:0
+Number of global frontiers after:7
+updateGlobalFrontier - used total: 0.000153522 sec
+Number of parents: 45
+SearchForParents - used total: 0.00121169 sec
+publishFrontier
+Frontier exploration used total :0.146848 sec
+------------------------------
+Frontier exploration used total :0.124292 sec
+------------------------------
+Number of frontiers:16
+findFrontier - used total: 0.000286997 sec
+Number of global frontiers before:16
+Number of deleted frontiers:1
+Number of global frontiers after:15
+updateGlobalFrontier - used total: 0.000242644 sec
+Number of parents: 48
+SearchForParents - used total: 0.00115574 sec
+publishFrontier
+Frontier exploration used total :0.139691 sec
+------------------------------
+Frontier exploration used total :0.124248 sec
+------------------------------
+Number of frontiers:22
+findFrontier - used total: 0.000393163 sec
+Number of global frontiers before:21
+Number of deleted frontiers:0
+Number of global frontiers after:21
+updateGlobalFrontier - used total: 0.000299709 sec
+Number of parents: 47
+SearchForParents - used total: 0.00171255 sec
+publishFrontier
+Frontier exploration used total :0.154472 sec
+------------------------------
+Frontier exploration used total :0.120173 sec
+------------------------------
+Number of frontiers:6
+findFrontier - used total: 7.4805e-05 sec
+Number of global frontiers before:6
+Number of deleted frontiers:0
+Number of global frontiers after:6
+updateGlobalFrontier - used total: 9.6108e-05 sec
+Number of parents: 41
+SearchForParents - used total: 0.000801063 sec
+publishFrontier
+Frontier exploration used total :0.13051 sec
+------------------------------
+cluster_size: 22
+clusterFrontier used total: 0.00063427 sec
+publishClusteredFrontier
+Best frontier: (29.25 -4.75 5.25)
+publishBestFrontier
+Frontier exploration used total :0.241752 sec
+------------------------------
+Frontier exploration used total :0.127986 sec
+------------------------------
+Number of frontiers:1
+findFrontier - used total: 5.001e-05 sec
+Number of global frontiers before:0
+Number of deleted frontiers:0
+Number of global frontiers after:0
+updateGlobalFrontier - used total: 6.7821e-05 sec
+Number of parents: 39
+SearchForParents - used total: 0.00110175 sec
+publishFrontier
+Frontier exploration used total :0.139602 sec
+------------------------------
+Frontier exploration used total :0.12515 sec
+------------------------------
+Number of frontiers:12
+findFrontier - used total: 0.000163439 sec
+Number of global frontiers before:11
+Number of deleted frontiers:0
+Number of global frontiers after:11
+updateGlobalFrontier - used total: 0.000168259 sec
+Number of parents: 43
+SearchForParents - used total: 0.00109421 sec
+publishFrontier
+Frontier exploration used total :0.127096 sec
+------------------------------
+Frontier exploration used total :0.121982 sec
+------------------------------
+Number of frontiers:65
+findFrontier - used total: 0.000678483 sec
+Number of global frontiers before:61
+Number of deleted frontiers:0
+Number of global frontiers after:61
+updateGlobalFrontier - used total: 0.000680159 sec
+Number of parents: 49
+SearchForParents - used total: 0.00105558 sec
+publishFrontier
+Frontier exploration used total :0.129519 sec
+------------------------------
+Frontier exploration used total :0.137306 sec
+------------------------------
+Number of frontiers:32
+findFrontier - used total: 0.000411741 sec
+Number of global frontiers before:32
+Number of deleted frontiers:7
+Number of global frontiers after:25
+updateGlobalFrontier - used total: 0.000340079 sec
+Number of parents: 48
+SearchForParents - used total: 0.000750773 sec
+publishFrontier
+Frontier exploration used total :0.141134 sec
+------------------------------
+Frontier exploration used total :0.131569 sec
+------------------------------
+Number of frontiers:12
+findFrontier - used total: 0.000216033 sec
+Number of global frontiers before:12
+Number of deleted frontiers:0
+Number of global frontiers after:12
+updateGlobalFrontier - used total: 0.000156105 sec
+Number of parents: 43
+SearchForParents - used total: 0.00105369 sec
+publishFrontier
+Frontier exploration used total :0.142402 sec
+------------------------------
+Frontier exploration used total :0.134287 sec
+------------------------------
+Number of frontiers:270
+findFrontier - used total: 0.00286179 sec
+Number of global frontiers before:114
+Number of deleted frontiers:40
+Number of global frontiers after:74
+updateGlobalFrontier - used total: 0.0011966 sec
+Number of parents: 53
+SearchForParents - used total: 0.00115029 sec
+publishFrontier
+Frontier exploration used total :0.150774 sec
+------------------------------
+Frontier exploration used total :0.129379 sec
+------------------------------
+Number of frontiers:81
+findFrontier - used total: 0.000835077 sec
+Number of global frontiers before:58
+Number of deleted frontiers:1
+Number of global frontiers after:57
+updateGlobalFrontier - used total: 0.000627076 sec
+Number of parents: 51
+SearchForParents - used total: 0.000967364 sec
+publishFrontier
+Frontier exploration used total :0.14471 sec
+------------------------------
+Frontier exploration used total :0.141091 sec
+------------------------------
+Number of frontiers:391
+findFrontier - used total: 0.00401495 sec
+Number of global frontiers before:258
+Number of deleted frontiers:80
+Number of global frontiers after:178
+updateGlobalFrontier - used total: 0.00246667 sec
+Number of parents: 59
+SearchForParents - used total: 0.00106599 sec
+publishFrontier
+Frontier exploration used total :0.16245 sec
+------------------------------
+Frontier exploration used total :0.142388 sec
+------------------------------
+Number of frontiers:177
+findFrontier - used total: 0.00174503 sec
+Number of global frontiers before:81
+Number of deleted frontiers:2
+Number of global frontiers after:79
+updateGlobalFrontier - used total: 0.000776825 sec
+Number of parents: 48
+SearchForParents - used total: 0.000898147 sec
+publishFrontier
+Frontier exploration used total :0.152378 sec
+------------------------------
+Frontier exploration used total :0.153409 sec
+------------------------------
+Number of frontiers:59
+findFrontier - used total: 0.000685675 sec
+Number of global frontiers before:40
+Number of deleted frontiers:0
+Number of global frontiers after:40
+updateGlobalFrontier - used total: 0.000406573 sec
+Number of parents: 37
+SearchForParents - used total: 0.000801549 sec
+publishFrontier
+Frontier exploration used total :0.156595 sec
+------------------------------
+Frontier exploration used total :0.137109 sec
+------------------------------
+Number of frontiers:9
+findFrontier - used total: 0.00013131 sec
+Number of global frontiers before:9
+Number of deleted frontiers:0
+Number of global frontiers after:9
+updateGlobalFrontier - used total: 0.000121532 sec
+Number of parents: 30
+SearchForParents - used total: 0.000711099 sec
+publishFrontier
+Frontier exploration used total :0.152291 sec
+------------------------------
+Frontier exploration used total :0.148504 sec
+------------------------------
+Number of frontiers:13
+findFrontier - used total: 0.00020339 sec
+Number of global frontiers before:12
+Number of deleted frontiers:3
+Number of global frontiers after:9
+updateGlobalFrontier - used total: 0.00016721 sec
+Number of parents: 29
+SearchForParents - used total: 0.00100522 sec
+publishFrontier
+Frontier exploration used total :0.155893 sec
+------------------------------
+cluster_size: 19
+clusterFrontier used total: 0.00036236 sec
+publishClusteredFrontier
+Best frontier: (0 0 0)
+publishBestFrontier
+Frontier exploration used total :0.22867 sec
+------------------------------
+Frontier exploration used total :0.151113 sec
+------------------------------
+Number of frontiers:1
+findFrontier - used total: 5.3362e-05 sec
+Number of global frontiers before:1
+Number of deleted frontiers:1
+Number of global frontiers after:0
+updateGlobalFrontier - used total: 7.6551e-05 sec
+Number of parents: 24
+SearchForParents - used total: 0.00103036 sec
+publishFrontier
+Frontier exploration used total :0.154625 sec
+------------------------------
+cluster_size: 15
+clusterFrontier used total: 0.000390088 sec
+publishClusteredFrontier
+Best frontier: (0 0 0)
+publishBestFrontier
+Frontier exploration used total :0.236528 sec
+------------------------------
+Frontier exploration used total :0.137519 sec
+------------------------------
+Number of frontiers:0
+findFrontier - used total: 1.1734e-05 sec
+Number of global frontiers before:0
+Number of deleted frontiers:0
+Number of global frontiers after:0
+updateGlobalFrontier - used total: 4.4143e-05 sec
+Number of parents: 24
+SearchForParents - used total: 0.000676944 sec
+publishFrontier
+Frontier exploration used total :0.126274 sec
+------------------------------
+cluster_size: 15
+clusterFrontier used total: 0.00042983 sec
+publishClusteredFrontier
+Best frontier: (0 0 0)
+publishBestFrontier
+Frontier exploration used total :0.215961 sec

@@ -1,0 +1,967 @@
+This is a log file for OctomapServer.
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0140368 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0146662 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0190097 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0223358 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.024535 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.025964 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0288768 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0257402 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0231483 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0254411 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0256244 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0248908 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0226485 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0198422 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0223127 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0239555 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0286753 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0287859 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0248711 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0243794 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0218029 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0277259 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0218009 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0287884 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0258352 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0273644 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0242621 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0245465 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0309463 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0243623 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0180596 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0211439 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0209765 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0216203 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0183557 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0210685 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0258632 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0254189 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0288141 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0307093 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0306727 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0413599 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0355869 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0396326 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0301115 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0333855 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0349528 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0454486 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0447973 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0377756 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0220037 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0223889 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0212648 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0215757 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0144993 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0216365 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0254993 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0363121 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0424152 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0451142 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0342841 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0501726 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0534936 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0688003 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0451086 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0489109 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0451221 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0598673 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0364255 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0384817 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0430232 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0474604 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0390745 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0401419 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0446345 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0519907 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.038628 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0355629 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0193365 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0216444 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0237007 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0221287 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0206665 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0147388 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0142233 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0113037 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0266846 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0184263 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0238869 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0245146 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.026102 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0362437 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0248686 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0227166 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0185502 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0202957 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0191663 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0231469 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0215521 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.021664 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0193595 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0189722 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0252743 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0199629 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0181764 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0231765 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0179322 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0163907 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.022347 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0208232 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0224903 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0155262 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0156015 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0202574 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0227342 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0165294 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0183164 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0218247 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0256992 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0233747 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0190049 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0176828 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0201501 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0296472 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.026756 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0188151 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0212443 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0222525 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.024088 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0232064 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0193423 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.032799 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0210502 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0292562 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0187395 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0166655 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0195202 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0203706 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0177537 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0175986 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0168445 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.014812 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0218656 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0163718 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0166186 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0196454 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0123748 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0157036 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0147519 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0160779 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0159424 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0219393 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0212465 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0219317 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0156954 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0151858 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0145205 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0170145 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.019325 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0223259 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0149027 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.020412 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0165719 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0152003 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0185121 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0204233 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.024832 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0237894 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0232993 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0225319 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0181419 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0238674 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0211474 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.013763 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.027203 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0147107 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0223666 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0209633 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0243678 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0259773 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0190582 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0206298 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0200304 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0203639 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0252939 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0256476 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0204695 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0245637 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0281933 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0271611 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0319553 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0370969 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0289669 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0445557 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.041155 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0429535 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0448047 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0390098 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.045276 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0480344 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0299529 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0344983 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0445583 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0295787 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0207153 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0275859 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0278064 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0355806 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0250003 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0261087 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0332777 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0288115 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0248562 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0211235 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0255506 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0289217 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0226843 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0456032 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0426879 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0372293 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0349591 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0398205 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0396465 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0367935 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0401401 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0384481 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.035363 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0417348 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0398289 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0417483 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0374218 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0338591 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0320033 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0333371 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.028506 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0328686 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0306368 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0281986 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0151467 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0242201 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0226653 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0241507 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0207643 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.02222 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0252985 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0248273 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.021593 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0206301 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0231375 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0215233 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0237828 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0216358 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0254821 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0208212 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0191673 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0191395 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0159007 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0178954 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0187978 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.02028 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0257505 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0236449 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0240436 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0263684 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0224323 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.023094 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0208104 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.023791 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0205551 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0212269 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0189656 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0189802 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0211683 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0182168 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.018574 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0217964 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0184429 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0169197 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0203831 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0189415 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.018715 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0231261 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0255605 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.02161 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0176031 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0207985 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0195066 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0277873 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0255077 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0181711 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0216371 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.019768 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.022168 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0245451 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0166194 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0230306 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0232379 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0341906 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0227109 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0260341 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0266928 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0242317 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0326433 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0262837 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0276455 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0357761 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0288377 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0401211 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0363066 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0327744 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0371899 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0292221 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0328633 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0335102 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0346561 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.04027 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0399302 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0372246 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0393335 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0333501 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0303182 sec
+OctomapServer - trackChanges
+OctomapServer - insertScan
+OctomapServer -InsertScan used total 0.0347901 sec
+OctomapServer - trackChanges

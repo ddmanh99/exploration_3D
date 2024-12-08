@@ -46,11 +46,11 @@ octomap:
   resolution: 0.5
   octree_depth: 16
   # Filename and file path for saving octomap
-  filename: t18
+  filename: t8
   file_path: /home/manh/exploration/src/uav_frontier_exploration_3d/result/
   map_file: /home/manh/exploration/src/uav_frontier_exploration_3d/config/lv3_raw.binvox.bt
   max_waitTime: 6.75
-  max_candidate: 2
+  max_candidate: 3
   
 
 clustering:

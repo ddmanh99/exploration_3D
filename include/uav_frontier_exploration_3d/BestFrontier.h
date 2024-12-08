@@ -55,13 +55,16 @@ namespace best_frontier
     }
     double calcMIBox(const octomap::OcTree *octree, const point3d &sensorOrigin);
     void bestPotentialCB(const geometry_msgs::PoseStamped msg);
+    void visualCandidateGoal(const geometry_msgs::PoseArray array);
 
     ros::NodeHandle m_nh;
     ros::Publisher m_potentialPub;
+    ros::Publisher m_candidateGoal;
     ros::Subscriber m_bestPotentialSub;
 
     string m_configFilename;
     string m_mapFile; // for a star
+    std::string m_worldFrameId;
     double m_resolution, m_kGain, m_lambda, m_boxInfGainSize;
     ofstream m_logfile;
     string m_filename, m_filePath, m_logPath;
